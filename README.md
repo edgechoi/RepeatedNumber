@@ -7,4 +7,4 @@
 # 실행 방법
 RepeatedNumber.exe 파일의 인수로 최댓값 지정
 * RepeatedNumber.exe [max number]
-* max number는 3037000499 이하
+* max number 3037000499 이하
